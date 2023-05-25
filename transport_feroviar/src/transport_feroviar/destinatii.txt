@@ -1,0 +1,14 @@
+Sibiu-Bucuresti-250
+Sibiu-Cluj-150
+Cluj-Bucuresti-100
+Iasi-Cluj-200
+Constanta-Bucuresti-130
+Craiova-Sibiu-400
+Brasov-Iasi-300
+Galati-Constanta-150
+Buzau-Bucuresti-200
+Oradea-Cluj-160
+Oradea-Bucuresti-500
+Valcea-Craiova-200
+Bistrita-Suceava-100
+Suceava-Botosani-20

@@ -1,0 +1,8 @@
+Cluj-Sibiu-100
+Oradea-Cluj-50
+Sibiu-Bucuresti-200
+Oradea-Bucuresti-100
+Iasi-Bucuresti-200
+Iasi-Sibiu-100
+
+
