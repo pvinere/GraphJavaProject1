@@ -5,6 +5,5 @@
  * @author puiuv
  *
  */
-module transport_feroviar {
-	requires java.base;
+module police_database {
 }
